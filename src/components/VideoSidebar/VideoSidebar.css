@@ -1,0 +1,14 @@
+.video__sidebar {
+    position: absolute;
+    color:#fff;
+    top:50%;
+    right:1%;
+}
+
+.video_interact_icon {
+    text-align: center;
+}
+
+.video_interact_icon p {
+    margin:0 3px 20px 0 ;
+}
